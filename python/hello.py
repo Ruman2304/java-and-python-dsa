@@ -1,0 +1,5 @@
+no1=input("enter no 1 = ")
+no2=input("enter no 1 = ")
+no3=input("enter no 1 = ")
+no4=int(no1+no2+no3)
+print(" addition of {} {} {} is {}".format(no1,no2,no3,no4))
